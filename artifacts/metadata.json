@@ -1,0 +1,17 @@
+{
+  "feature_order": [
+    "kills",
+    "deaths",
+    "assists",
+    "gold_earned",
+    "cs",
+    "wards_placed",
+    "wards_killed",
+    "damage_dealt"
+  ],
+  "target": "win",
+  "test_metrics": {
+    "accuracy": 0.535,
+    "roc_auc": 0.5853341336534614
+  }
+}
